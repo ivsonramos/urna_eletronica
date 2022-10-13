@@ -15,6 +15,7 @@ body{
     width: 500px;
     height: 320px;
     background: linear-gradient(to right, #e8e8e8, #c1c1c1);
+    border: 2px solid #555;
 }
 
 .keyboard {
