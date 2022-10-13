@@ -38,4 +38,6 @@ body{
     justify-content: center;
     align-items: center;
     margin: 10px;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px #555;
 }
