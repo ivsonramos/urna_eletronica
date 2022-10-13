@@ -11,24 +11,24 @@ body{
     display: flex;
 }
 
-.tela {
+.screen {
     width: 500px;
     height: 320px;
     background: linear-gradient(to right, #e8e8e8, #c1c1c1);
 }
 
-.teclado {
+.keyboard {
     background-color: #403a3a;
     margin-left: 30px;
 }
 
-.teclado-linha {
+.keyboard-line {
     display: flex;
     justify-content: center;
-
+    align-items: flex-end;
 }
 
-.teclado_botao {
+.key_button {
     width: 70px;
     height: 40px;
     background-color: #000;
@@ -40,4 +40,24 @@ body{
     margin: 10px;
     cursor: pointer;
     box-shadow: 3px 3px 3px #555;
+}
+
+.btn-branco {
+    background-color: #fff;
+    color: #000;
+    font-size: 15px;
+}
+
+.btn-corrige {
+    background-color: #f09046;
+    color: #000;
+    font-size: 15px;
+}
+
+.btn-confirma {
+    background-color: #48c079;
+    color: #000;
+    font-size: 15px;
+    width: 90px;
+    height: 50;
 }
