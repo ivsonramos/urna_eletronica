@@ -113,6 +113,12 @@ body{
     font-size: 25px;
 }
 
+.flashes {
+    animation-name: flashes;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
 .d-1-4 {
     flex: 1;
     line-height: 30px;
