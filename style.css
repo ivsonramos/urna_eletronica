@@ -127,6 +127,19 @@ body{
 .d-1-right {
     width: 90px;
 }
+.d-1-image {
+    border: 1px solid #000;
+    background-color: #fff;
+    text-align: center;
+}
+
+.d-1-image img {
+    width: 100%;
+}
+
+.d-1-image.small {
+    width: 70%;
+} 
 
 .d-2 {
     height: 50px;
