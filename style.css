@@ -24,6 +24,7 @@ body{
 
 .teclado-linha {
     display: flex;
+    justify-content: center;
 
 }
 
