@@ -126,11 +126,15 @@ body{
 
 .d-1-right {
     width: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
 .d-1-image {
     border: 1px solid #000;
     background-color: #fff;
     text-align: center;
+    font-size: 12px;
 }
 
 .d-1-image img {
@@ -138,7 +142,8 @@ body{
 }
 
 .d-1-image.small {
-    width: 70%;
+    width: 80%;
+    font-size: 10px;
 } 
 
 .d-2 {
