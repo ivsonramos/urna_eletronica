@@ -1,21 +1,21 @@
 let etapas = [
     {
         titulo: 'GOVERNADOR',
-        numero: 2,
-        candidato: [
+        numeros: 2,
+        candidatos: [
             {
-                numero: 77,
+                number: 77,
                 name: 'Marilia Arraes',
-                partido: 'PT',
-                fotos:[
+                broken: 'PT',
+                photograph:[
                     {url:'xxxx.jpg', legenda:'Governador', small:false}
                 ]
             },
             {
-            numero: 45,
+            number: 45,
                 name: 'Raquel Lyra',
-                partido: 'PSDB',
-                fotos:[
+                broken: 'PSDB',
+                photograph:[
                     {url:'xxxx.jpg', legenda:'Governador', small:false}
                 ]
             }
@@ -26,21 +26,21 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                numero: 22,
+                number: 22,
                 name: 'Bolsonaro',
-                partido: 'PL',
+                broken: 'PL',
                 vice:'Ger. Braga Netto',
-                fotos: [
+                photograph: [
                     {url:'xxxx.jpg', legenda:'Presidente'},
                     {url:'xxx.jpg', legenda: 'Vice-Presidente', small:false}
                 ]
             },
             {
-            numero: 13,
+                number: 13,
                 name: 'Lula',
-                partido: 'PT',
+                broken: 'PT',
                 vice:'Geraldo Alckmin',
-                fotos:[
+                photograph:[
                     {url:'xxxx.jpg', legenda:'Presidente'},
                     {url:'xxx.jpg', legenda: 'Vice-Presidente', small:false}
                 ]
