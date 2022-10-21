@@ -4,15 +4,15 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                number: 77,
+                number: '77',
                 name: 'Marilia Arraes',
-                broken: 'PT',
+                broken: 'SOLIDARIEDADE',
                 photograph:[
                     {url:'xxxx.jpg', legenda:'Governador', small:false}
                 ]
             },
             {
-            number: 45,
+            number: '45',
                 name: 'Raquel Lyra',
                 broken: 'PSDB',
                 photograph:[
@@ -26,7 +26,7 @@ let etapas = [
         numeros: 2,
         candidatos: [
             {
-                number: 22,
+                number: '22',
                 name: 'Bolsonaro',
                 broken: 'PL',
                 vice:'Ger. Braga Netto',
@@ -36,7 +36,7 @@ let etapas = [
                 ]
             },
             {
-                number: 13,
+                number: '13',
                 name: 'Lula',
                 broken: 'PT',
                 vice:'Geraldo Alckmin',
