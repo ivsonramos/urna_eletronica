@@ -8,7 +8,7 @@ let etapas = [
                 name: 'Marilia Arraes',
                 broken: 'SOLIDARIEDADE',
                 photograph:[
-                    {url:'xxxx.jpg', legenda:'Governador', small:false}
+                    {url:'/img/Marilia_Arraes.png', legenda:'Governador', small:false}
                 ]
             },
             {
@@ -16,7 +16,7 @@ let etapas = [
                 name: 'Raquel Lyra',
                 broken: 'PSDB',
                 photograph:[
-                    {url:'xxxx.jpg', legenda:'Governador', small:false}
+                    {url:'/img/Raquel_Lyra.png', legenda:'Governador', small:false}
                 ]
             }
         ]
@@ -31,8 +31,8 @@ let etapas = [
                 broken: 'PL',
                 vice:'Ger. Braga Netto',
                 photograph: [
-                    {url:'xxxx.jpg', legenda:'Presidente'},
-                    {url:'xxx.jpg', legenda: 'Vice-Presidente', small:false}
+                    {url:'/img/Bolsonaro.png', legenda:'Presidente'},
+                    {url:'/img/Braga_Netto.png', legenda: 'Vice-Presidente', small:false}
                 ]
             },
             {
@@ -41,8 +41,8 @@ let etapas = [
                 broken: 'PT',
                 vice:'Geraldo Alckmin',
                 photograph:[
-                    {url:'xxxx.jpg', legenda:'Presidente'},
-                    {url:'xxx.jpg', legenda: 'Vice-Presidente', small:false}
+                    {url:'/img/Lula.png', legenda:'Presidente'},
+                    {url:'/img/Geraldo_Alckmin.png', legenda: 'Vice-Presidente', small:false}
                 ]
             }
         ]
